@@ -1,0 +1,224 @@
+######################
+COMANDO ADMIN
+######################
+/gem id quantidade  Comando para dar gemas a alguem
+/anuncio Comando para anunciar para os players
+/God Reviver Alguem
+/item [nomedoitem] [quantidade] Comando para pegar algum item
+/nc Comando para ficar invisivel e voar
+/kick Comando para expulsar algum jogador
+/tpcds Comando para ir até uma coordenada
+/cds Comando para ver uma coordenada
+/group ID Admin 1 Comando para setar Alguem
+/ungroup Comando para remover algum cargo
+/tptome comando para puxar alguem
+/tpto comando para ir até alguem
+/tpway Comando para ir até algum lugar marcado no mapa
+/hash comando para ver hash do vehiculo lembrando que ira aparecer no cmd
+/tuning Comando para tunar um veiculo
+/fix Comando para arrumar um veiculo
+/time Comando para mudar horario e clima exemplo time 10 00 CLEAR
+/painel [Cargo] Painel de gerenciamento de cargos
+/hypnonema Comando para abrir sistema do cinema
+
+COMANDOS PARA FAZER CHAMADOS
+/call adm
+/call medico
+/call mec
+/call policia
+
+##########################################
+SETAGENS DA BASE Use o exemplo /group ID Bahamas 1
+Admin
+Pmesp
+Pcesp
+Rota
+Prf
+Exercito
+Bombeiro
+Paramedic
+Mechanic
+BurgerShot = FAVRICAÇÃO DE LACHES
+UwuCoffee = FABRICAÇÃO DE LANCHES
+Bahamas = CARTÕES DE ROUBOS
+Vanilla = LAVAGEM
+Mafia = VENDA DE ARMAS 1
+Mercenarios = VENDA DE ARMAS 2
+Motoclube = VENDA DE MUNIÇÃO
+Dracing = DESMANCHE
+Favela01 = VENDA COCAINA
+Favela02 = VENDA METHA
+Favela03 = VENDA MACONHA
+Favela04 = VENDA COCAINA
+Som = Setagem para ter acesso ao /som
+##########################################
+
+##########################################
+LOCALIZAÇÃO ILEGAL
+##########################################
+
+FAVELA01 VENDA COCAINA  
+
+1373.15,-147.5,149.58 BAU
+1379.08,-150.71,146.21 FABRICAÇÃO
+1379.45,-147.9,146.21 ROTAS
+1397.11,-123.07,127.81 GARAGEM
+
+FAVELA02 VENDA METHA  
+
+2191.24,3924.84,43.56 BAU
+2192.91,3923.89,43.56 FABRICAÇÃO
+2191.71,3930.36,39.98 ROTAS 
+2165.33,3921.88,39.48 GARAGEM
+
+FAVELA03 VENDA MACONHA  
+
+-3099.66,1703.71,37.59 BAU
+-3108.48,1694.33,37.59 FABRICAÇÃO
+-3105.08,1708.77,37.59 ROTAS
+-3079.45,1707.37,36.34 GARAGEM
+
+FAVELA04 VENDA COCAINA  
+
+-3112.14,1423.19,29.89 BAU
+-3110.46,1422.6,29.89 FABRICAÇÃO
+-3105.05,1427.4,30.36 ROTAS
+-3100.87,1438.44,27.06 GARAGEM
+
+Mercenarios VENDA DE ARMAS  1    
+
+-2670.14,1336.29,140.88 BAU	
+-2679.04,1327.72,140.88 FABRICAÇÃO
+-2677.5,1336.21,144.25 ROTAS
+
+MAFIA VENDA DE ARMAS   2  
+
+-1861.7, 2054.75, 135.46 BAU	
+-1870.53,2061.91,135.44 FABRICAÇÃO
+-1896.18,2059.86,140.95 ROTAS
+
+Motoclube VENDA DE MUNIÇÃO  
+
+993.51,-134.21,78.89 BAU
+990.6,-138.15,74.07 FABRICAÇÃO
+986.1,-120.35,74.05 ROTAS
+
+
+Vanilla LAVAGEM  
+
+93.26,-1291.33,29.27 BAU
+95.4,-1293.34,29.27 LOCAL LAVAGEM
+133.17,-1293.75,29.27 ROTAS
+136.99,-1299.65,29.23 GARAGEM
+
+Bahamas cartões de roubo  
+
+-1365.44,-617.06,30.31 BAU
+-1367.47,-625.62,30.31 LOCAL FABRICAÇÃO
+-1371.79,-618.3,30.31 ROTAS
+
+
+Dracing DESMANCHE  
+
+2338.71,3125.35,48.21 BAU
+2340.8,3126.55,48.21 LOCAL FABRICAÇÃO
+2352.04,3132.78,48.21 LOCAL DESMANCHE
+
+##########################################
+LOCALIZAÇÃO LEGAL
+##########################################
+PMESP
+1318.12,-774.92,65.66 BAU
+1321.07,-772.28,65.66 ARSENAL 
+1299.12,-708.56,65.61 ENTRAR EM SERVIÇO
+1307.19,-731.3,65.5 GARAGEM
+
+ROTA
+-1999.6,-483.24,12.22 BAU
+-2006.16,-475.04,12.22 ARSENAL 
+-2023.92,-460.93,12.22 ENTRAR EM SERVIÇO
+-2046.98,-519.23,12.22 GARAGEM
+
+POLICIA CIVIL
+276.48,-345.9,49.52 BAU
+281.2,-350.05,49.62 ARSENAL 
+267.96,-340.2,45.83 ENTRAR EM SERVIÇO
+290.92,-327.73,46.13 GARAGEM
+
+PRF
+2604.82,5345.0,47.6 BAU
+2605.77,5342.67,47.6 ARSENAL 
+2597.06,5337.33,47.67 ENTRAR EM SERVIÇO
+2621.53,5348.91,47.31 GARAGEM
+
+EXERCITO
+-1814.59,2939.52,32.81 BAU
+-1811.48,2936.22,32.81 ARSENAL 
+-2172.79,3255.96,32.81 ENTRAR EM SERVIÇO
+-2179.97,3239.9,32.81 GARAGEM
+
+
+PARAMEDICO
+-447.53,-322.33,34.91 BAU
+-448.47,-325.23,34.91 FARMACIA
+-430.25,-323.2,34.91 ENTRAR EM SERVIÇO
+330.2,-601.21,43.27 ELEVADOR GARAGEM
+327.14,-603.54,43.27 ELEVADOR GARAGEM HELICOPTERO
+
+BOMBEIRO
+-1145.84,-1720.53,5.04 BAU
+-1147.38,-1718.25,5.04 FARMACIA
+-1145.96,-1736.14,5.04 ENTRAR EM SERVIÇO
+-1161.53,-1734.47,4.09 GARAGEM
+
+
+MECANICO
+823.27,-928.81,26.45 BAU
+839.79,-984.11,26.49 LOJA
+811.97,-986.95,26.64 ENTRAR EM SERVIÇO
+816.1,-966.51,26.64 GARAGEM
+
+BurgerShot VENDA DE LANCHES
+-1203.11,-895.47,13.99 BAU
+-1198.04,-899.07,13.99 FABRICAÇÃO
+
+UwuCoffee VENDA DE LANCHES
+-593.61,-1068.15,22.34 BAU
+-590.37,-1059.77,22.34 FABRICAÇÃO
+ 
+
+
+
+fac cds
+["1"] = { vec3(85.42,-1549.75,29.59),"Lixeiro" },
+		["2"] = { vec3(287.36,2843.6,44.7),"Lixeiro" },
+		["3"] = { vec3(-413.68,6171.99,31.48),"Lixeiro" },
+		["4"] = { vec3(1272.26,-1712.57,54.76),"Lester" },
+		["5"] = { vec3( 1158.91,2722.03,38),"Lavagem" }, --lavagem
+		["6"] = { vec3(-2679.04,1327.72,140.88),"Mercenarios" },
+		["7"] = { vec3(807.67,-757.51,26.77),"PizzaThis" },
+		["8"] = { vec3(-1198.04,-899.07,13.99),"BurgerShot" },
+		["9"] = { vec3(-590.37,-1059.77,22.34),"UwuCoffee" },
+		["10"] = { vec3(122.69,-1041.57,29.56),"BeanMachine" },
+		["11"] = { vec3(95.58,-1985.56,20.44),"Ballas" },
+		["12"] = { vec3(95.4,-1293.34,29.27),"Vanilla" },
+		["13"] = { vec3(-1367.47,-625.62,30.31),"Bahamas" },  
+		["14"] = { vec3(990.6,-138.15,74.07),"Motoclube" },
+		["15"] = { vec3(228.28,-1752.89,25.24),"Bloods" }, 
+		["16"] = { vec3(-1867.33,2057.61,135.44),"Sinaloa" },
+		["17"] = { vec3(-1870.53,2061.91,135.44),"Mafia" },
+		["18"] = { vec3(1379.08,-150.71,146.21),"Favela01" },
+		["19"] = { vec3(2248.78,50.39,251.42),"SV" },  
+		["20"] = { vec3(1707.74,387.17,245.65),"Ruinxos" },  
+		["21"] = { vec3(2192.91,3923.89,43.56),"Favela02" },  
+		["22"] = { vec3(-3108.48,1694.33,37.59),"Favela03" },  
+		["23"] = { vec3(-3110.46,1422.6,29.89),"Favela04" },
+		["24"] = { vec3(-5.35,1944.65,214.82),"Favela05" },
+		["25"] = { vec3(-276.44,3349.76,132.81),"Favela06" },
+		["26"] = { vec3(2201.5,3935.39,40.02),"Favela07" },
+		["27"] = { vec3(3524.81,4573.32,52.34),"Favela08" },
+		["28"] = { vec3(586.08,2484.27,61.27),"Favela09" },
+		["29"] = { vec3(2340.8,3126.55,48.21),"Dracing" },
+		["30"] = { vec3(-1525.34,143.24,48.63),"Cartel" },
+		["31"] = { vec3(-1810.58,429.97,128.5),"Ace" },
+		["32"] = { vec3(-573.3,293.52,79.18),"Tequila" },
